@@ -156,9 +156,11 @@
     height: 12px;
     background: #a2a2a2;
     border-radius: 12px;
+
   }
   .p1{
     width: 99.7%;
+    
   }
   .p2{
     width: 99.2%;
@@ -184,8 +186,9 @@
     float: right;
     margin-right: 6px;
     line-height: 13px;
-    color: #fff;
-    font-size: 12px;
+    color: black;
+    font-size: 15px;
+    font-weight: 700;
   }
   @media screen and (max-width:700px) {
     .about-section-col{
